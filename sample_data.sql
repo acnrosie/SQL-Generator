@@ -29,7 +29,7 @@ INSERT INTO users (email, username, first_name, last_name, password_hash, date_o
 -- Insert Users (DC Heroes)
 -- ====================================
 INSERT INTO users (email, username, first_name, last_name, password_hash, date_of_birth, height_cm, weight_kg, fitness_level, team_id, total_points) VALUES
-('clark.kent@dc.com', 'superman', 'Clark', 'Kent', '$2b$12$dummy_hash_7', '1986-02-29', 190.50, 106.59, 'advanced', 2, 1300),
+('clark.kent@dc.com', 'superman', 'Clark', 'Kent', '$2b$12$dummy_hash_7', '1986-06-18', 190.50, 106.59, 'advanced', 2, 1300),
 ('bruce.wayne@dc.com', 'batman', 'Bruce', 'Wayne', '$2b$12$dummy_hash_8', '1982-02-19', 188.00, 95.25, 'advanced', 2, 1100),
 ('diana.prince@dc.com', 'wonder_woman', 'Diana', 'Prince', '$2b$12$dummy_hash_9', '1200-10-15', 183.00, 75.00, 'advanced', 2, 1050),
 ('barry.allen@dc.com', 'flash', 'Barry', 'Allen', '$2b$12$dummy_hash_10', '1989-03-14', 183.00, 81.65, 'advanced', 2, 1250),
